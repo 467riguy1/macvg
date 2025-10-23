@@ -134,7 +134,7 @@ function Game() {
 
   return (
     <>
-      <title>{`${game.name} | MacVG`}</title>
+      <title>{`${game.name} | Scripters Mod / MacVG`}</title>
       <NavBar />
       {games.length > 0 && (
         <div className="wrap">
